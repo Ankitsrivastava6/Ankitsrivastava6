@@ -186,10 +186,7 @@ $ cat about-me.txt
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ankitsrivastava6/Ankitsrivastava6/output/github-contribution-grid-snake.svg" />
-</p>
-
+![Snake animation](https://raw.githubusercontent.com/Ankitsrivastava6/Ankitsrivastava6/main/dist/github-contribution-grid-snake.svg)
 ---
 
 ## 📈 My DevOps Journey
